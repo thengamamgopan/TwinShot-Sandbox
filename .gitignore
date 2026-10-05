@@ -1,0 +1,16 @@
+# Settings saved on each machine
+sandbox_settings.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Third-party tools are downloaded separately and must not be uploaded here
+*.exe
+*.chm
+*.cfg
+
+# Recordings and reports from test runs
+*.pml
+*.etl
+*.pcapng
